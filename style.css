@@ -1,0 +1,20 @@
+.ver
+{
+		writing-mode: tb-rl;
+		transform: rotate(-180deg);
+}
+.end
+{
+	text-align: right;
+}
+.bo
+{
+	border: solid;
+}
+.leftall
+{
+	float:left;
+}
+th{
+	text-align: left;
+}
